@@ -1,4 +1,4 @@
-package javaspringmicroservice.config;
+package comjava.config;
 
 import java.util.HashMap;
 import java.util.Map;
